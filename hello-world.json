@@ -2,7 +2,7 @@
     "repo": "https://github.com/neoapps-dev/hello-world.git",
     "name": "Hello-World",
     "version": "1.0.1",
-    "maintainer": "NEOAPPS <asd22.info@gmail.com>",
+    "maintainer": "NEOAPPS",
     "description": "A simple hello world app.",
     "license": "NONE",
     "dependencies": [],
