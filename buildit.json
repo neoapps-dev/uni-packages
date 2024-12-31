@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/neoapps-dev/uni-buildit.git",
+    "name": "buildit",
+    "version": "1.0.0",
+    "maintainer": "NEOAPPS",
+    "description": "Cross-Platform Build Automation",
+    "license": "GPLv3",
+    "dependencies": [],
+    "tags": ["build","dev","development","make"]
+}
