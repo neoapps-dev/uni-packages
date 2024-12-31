@@ -1,7 +1,7 @@
 {
-    "repo": "https://github.com/fr34db34r/tsnake.git",
+    "repo": "https://github.com/FR34DB3R/tsnake.git",
     "name": "tsnake",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "maintainer": "FarDeath",
     "description": "A simple terminal snake",
     "license": "NONE",
