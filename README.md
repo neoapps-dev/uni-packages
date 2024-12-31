@@ -6,6 +6,11 @@ If it's not already there, use:
 ```bash
 uni add-repo https://github.com/neoapps-dev/uni-packages.git
 ```
+or,
+```bash
+uni init-repo
+```
+
 and thats it!
 
 ## Submitting packages to `uni-packages`
