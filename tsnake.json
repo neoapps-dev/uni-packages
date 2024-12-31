@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/fr34db34r/tsnake.git",
+    "name": "tsnake",
+    "version": "1.0.1",
+    "maintainer": "FarDeath",
+    "description": "A simple terminal snake",
+    "license": "NONE",
+    "dependencies": [],
+    "tags": ["game","snake","terminal"]
+}
