@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/neoapps-dev/uni-neofetch.git",
+    "name": "neofetch",
+    "version": "7.1.0",
+    "maintainer": "Dylan Araps",
+    "description": "A command-line system information tool written in bash 3.2+.",
+    "license": "MIT",
+    "dependencies": [],
+    "tags": ["neofetch","fetch","bash","info","popular"]
+}
