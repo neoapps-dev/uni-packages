@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/neoapps-dev/uni-upgrade.git",
+    "name": "uni-upgrade",
+    "version": "1.0.0",
+    "maintainer": "NEOAPPS",
+    "description": "Upgrade your manual installation of uni!",
+    "license": "NONE",
+    "dependencies": [],
+    "tags": ["upgrade","official","upgrade","uni"]
+}
