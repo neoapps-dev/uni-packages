@@ -29,9 +29,8 @@ Simple Fork this repo, and add a JSON file with this structure:
 ```
 Valid inputs for "license" are:
 - MIT
-- GPLv3
-- GPLv2
-- GPLv1
-- LGPL
-- AGPL
+- Apache-(v1,v2)
+- GPL (v1,v2,v3)
+- LGPL (v1,v2,v3)
+- AGPL (v1,v2,v3)
 - NONE
