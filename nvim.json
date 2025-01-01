@@ -3,7 +3,7 @@
     "name": "nvim",
     "version": "0.10.3",
     "maintainer": "NEOAPPS",
-    "description": "hyperextensible Vim-based text editor",
+    "description": "hyperextensible Vim-based text editor (AppImage)",
     "license": "Apache-v2",
     "dependencies": [],
     "tags": ["build","dev","development","text-editor","vim","neovim"]
