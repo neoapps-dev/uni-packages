@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/neoapps-dev/uni-neovim.git",
+    "name": "nvim",
+    "version": "0.10.3",
+    "maintainer": "NEOAPPS",
+    "description": "hyperextensible Vim-based text editor",
+    "license": "Apache-v2",
+    "dependencies": [],
+    "tags": ["build","dev","development","text-editor","vim","neovim"]
+}
