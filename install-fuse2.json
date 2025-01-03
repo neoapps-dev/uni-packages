@@ -1,0 +1,10 @@
+{
+    "repo": "https://github.com/FE34DB3R/install-fuse2.git",
+    "name": "install-fuse2",
+    "version": "2.9.7",
+    "maintainer": "FarDeath",
+    "description": "Installs libfuse 2.9.7 on any distro. Required to run AppImages within Uni.",
+    "license": "GPLv2+GPLv2.1",
+    "dependencies": [],
+    "tags": ["install","wrapper","script","fuse","appimage","fixer"]
+}
