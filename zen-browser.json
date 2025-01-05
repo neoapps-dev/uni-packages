@@ -1,0 +1,11 @@
+{
+    "repo": null,
+    "installscripturl":"https://updates.zen-browser.app/appimage.sh",
+    "name": "zen-browser",
+    "version": "1.0.2-beta",
+    "maintainer": "Zen Browser Team",
+    "description": "Experience tranquillity while browsing the web without people tracking you!",
+    "license": "MPL",
+    "dependencies": [],
+    "tags": ["browser","firefox","firefox-based","arc-like","zen","appimage"]
+}
